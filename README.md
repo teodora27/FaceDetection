@@ -2,6 +2,7 @@
 # 📸 **ESP32 CAM Face Detection Project** 🔍
 
 Welcome to the **Face Detection Project** using the versatile **ESP32 CAM module**! This project showcases how you can leverage cutting-edge technology to identify and track faces in real-time. 🎯👤
+![Screenshot 2024-07-18 120604](https://github.com/user-attachments/assets/c34cab1b-3522-40bf-9978-e65324ea8ea4)
 
 ![image](https://github.com/user-attachments/assets/9f8db228-03d3-4e50-bda9-58d7c0938b6e)
 
